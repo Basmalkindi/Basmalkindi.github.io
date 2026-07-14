@@ -3,5 +3,5 @@ Hello! I am a Geology graduate from the [University of glasgow](https://www.gla.
 
 - Email
 - CV
-- LinkedIn
+- [LinkedIn](linkedin.com/in/basama-al-kindi)
   
