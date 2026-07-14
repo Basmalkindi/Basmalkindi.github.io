@@ -1,0 +1,7 @@
+# About Me
+Hello! I am a Geology graduate from the University of Glasgow and currently work in GIS and Remote Sensing. My interests include environmental data science, remote sensing, spatial analysis, and artificial intelligence
+
+- Email
+- CV
+- LinkedIn
+  
