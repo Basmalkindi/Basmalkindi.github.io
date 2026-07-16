@@ -10,7 +10,7 @@ Hello! I am a Geology graduate from the [University of glasgow](https://www.gla.
 - Environmental Data Science
 
 ## Current Projects
-- Cyclone vegetation change analysis using Sentinel-2.
+- Vegetation change analysis using Sentinel-2.
 - AI and GIS applications for environmental monitoring.
 - Geospatial analysis and mapping using ArcGIS Pro.
 
