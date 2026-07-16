@@ -14,6 +14,9 @@ Hello! I am a Geology graduate from the [University of glasgow](https://www.gla.
 - AI and GIS applications for environmental monitoring.
 - Geospatial analysis and mapping using ArcGIS Pro.
 
+## Some Favorite Maps
+<embed type="text/html" src="/img/whsr_map.html" height="650" width="850">
+
 ## Contact
 - [Email](<basmakindi32@gmail.com>)  
 - [LinkedIn](linkedin.com/in/basama-al-kindi)
