@@ -14,7 +14,7 @@ Hello! I am a Geology graduate from the [University of glasgow](https://www.gla.
 - AI and GIS applications for environmental monitoring.
 - Geospatial analysis and mapping using ArcGIS Pro.
 
-## Some Favorite Maps
+## Interactive Map of The Western Hajar Starlight in Oman 
 <embed type="text/html" src="/img/whsr_map.html" height="650" width="850">
 
 ## Contact
